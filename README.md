@@ -18,7 +18,7 @@
 
 > Building scalable systems, one line of code at a time!
 
-I'm a passionate **Software Engineer Intern at Inova IT Systems**, on a mission to craft elegant solutions to complex problems. I love working with backend systems, cloud infrastructure, and creating seamless full-stack experiences. When I'm not coding, you'll find me exploring new technologies and contributing to the developer community! 💻✨
+I'm a passionate **Software Engineer Intern at Inova IT Systems**, on a mission to craft elegant solutions to complex problems. I love working with backend systems, cloud infrastructure, and creating robust, scalable applications!
 
 ### What Drives Me 🔥
 - 🎓 **Continuous Learning** - Always diving into the next big thing
@@ -94,30 +94,6 @@ I'm a passionate **Software Engineer Intern at Inova IT Systems**, on a mission 
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-*🎨 Exciting projects coming soon!*
-
-**Check back here to see my latest creations!** 
-
-</div>
-
----
-
-## 🎓 Quick Facts
-
-| 🎯 | Details |
-|---|---|
-| **🏢** | Software Engineer Intern @ Inova IT Systems |
-| **💪** | Expertise in Backend Development & DevOps |
-| **📚** | Always learning new technologies |
-| **🤝** | Open to collaboration & mentorship |
-| **⚡** | Problem solver with a growth mindset |
-
----
-
 ## 💌 Let's Connect!
 
 <div align="center">
@@ -134,7 +110,7 @@ I'm always excited to meet fellow developers, discuss tech ideas, or collaborate
 
 > "Code is poetry written for machines but read by humans. Let's make it beautiful and meaningful!"
 
-I genuinely believe in the power of technology to solve real-world problems. If you're working on something exciting, I'd love to hear about it! Don't hesitate to reach out—collaboration is where the magic happens! 🚀
+I genuinely believe in the power of technology to solve real-world problems. If you're working on something exciting, I'd love to hear about it! Don't hesitate to reach out—collaboration is where magic happens! ✨
 
 <br>
 
